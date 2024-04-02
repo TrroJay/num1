@@ -61,6 +61,7 @@ int main() {
     }
     int sum = ms->function(arr, n);
     cout << sum << endl;
+    cout << sum << endl;
     delete ms;
 }
 
